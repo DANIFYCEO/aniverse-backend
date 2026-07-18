@@ -1,0 +1,32 @@
+{
+  "name": "aniverse-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@consumet/extensions": "^1.8.8",
+    "aniwatch": "^2.27.9",
+    "axios": "^1.18.1",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "fluent-ffmpeg": "^2.1.3",
+    "got-scraping": "^4.2.1",
+    "playwright": "^1.61.1",
+    "playwright-extra": "^4.3.6",
+    "puppeteer": "^25.3.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "torrent-stream": "^1.2.1",
+    "uuid": "^14.0.1",
+    "webtorrent": "^3.0.16",
+    "xml2js": "^0.6.2"
+  }
+}
